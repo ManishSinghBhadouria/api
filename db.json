@@ -1,4 +1,5 @@
-{
+[
+    {
     "regions":[
         {
             "name":"Isle of Wight",
@@ -576,3 +577,5 @@
 
     ]
 }
+
+]
